@@ -1,0 +1,9 @@
+streamlit
+tensorflow>=2.10
+pillow
+numpy
+matplotlib
+fpdf
+seaborn
+scikit-learn
+opencv-python-headless
